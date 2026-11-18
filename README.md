@@ -1,19 +1,28 @@
-<h1 align="center">Hi 👋, I'm Guillermo</h1>
-<h3 align="center">A Data Scientist and Senior frontend developer from Argentina</h3>
+# Guillermo Veron
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=negoveron&label=Profile%20views&color=0e75b6&style=flat" alt="negoveron" /> </p>
+**Senior Frontend Developer | Angular · TypeScript · RxJS · Signals | Ionic · Three.js**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+Senior Frontend Developer with 5+ years at Flux IT building and maintaining production Angular and Ionic applications, including Banco Credicoop's hybrid mobile banking app for Android and iOS.
 
-- 📫 How to reach me **negoveron@gmail.com**
+For Banco Credicoop, I develop features for the hybrid mobile banking app (Ionic, AngularJS, Cordova) from requirement analysis and effort estimation to release, keep the legacy stack current, including the annual approval of the app for new Android versions, and built a proof of concept to migrate from Cordova to Capacitor.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guillermo-andres-veron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo-andres-veron" height="30" width="40" /></a>
-</p>
+For a port logistics client, I built an Angular 17 frontend (Signals, RxJS, Keycloak) that renders a 3D container yard with Three.js, after a first prototype in React, and I maintain that application's Spring Boot backend.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Beyond frontend, I completed an 800-hour Data Science program (Python, Pandas, Scikit-learn, GCP, Power BI).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=negoveron&show_icons=true&locale=en" alt="negoveron" /></p>
+Spanish and Portuguese (native). English C1 (EF SET).
 
+[LinkedIn](https://www.linkedin.com/in/guillermo-andres-veron/)
+
+## Stack
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+
+## Selected public work
+
+- **[tip-dapp](https://github.com/negoveron/tip-dapp)**: Angular 17 frontend (TypeScript, Signals) for a Solidity tipping smart contract built and tested with Hardhat. Built for the ETH Kipu program.
+- **[Restaurant market analysis](https://github.com/negoveron/ml-sentiment-recommender-traffic-analysis)**: Henry team project with an ETL pipeline on GCP (Cloud Storage, Cloud Run, BigQuery) for Google Maps and Yelp review data, a recommendation system with Python, Pandas, TextBlob and Scikit-learn served through a Flask API, and Power BI dashboards. [Live site](https://negoveron.github.io/gastrosphere.github.io/).
